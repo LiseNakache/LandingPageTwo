@@ -13,4 +13,4 @@ In your terminal, cd into the folder
 
 # username, password
 - username github
-- password
+- password --> token
